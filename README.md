@@ -23,7 +23,7 @@ docker compose --env-file .env.sample up -d
 
 ### MinIO
 
-* **URL:** [http://127.0.0.1:9001](http://127.0.0.1:9001)
+* **URL:** [http://localhost:9001](http://127.0.0.1:9001)
 * **Username:** `root`
 * **Password:** `adminadmin`
 
